@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Pastello.Console/1.0.0": {
+        "dependencies": {
+          "Pastello": "1.0.0"
+        },
+        "runtime": {
+          "Pastello.Console.dll": {}
+        }
+      },
+      "Pastello/1.0.0": {
+        "runtime": {
+          "Pastello.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pastello.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pastello/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

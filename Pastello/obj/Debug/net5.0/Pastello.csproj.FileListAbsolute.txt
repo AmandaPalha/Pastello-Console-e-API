@@ -1,0 +1,12 @@
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.csproj.AssemblyReference.cache
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.AssemblyInfoInputs.cache
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.AssemblyInfo.cs
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.csproj.CoreCompileInputs.cache
+D:\Projetos\ConsolePastello\Pastello\bin\Debug\net5.0\Pastello.deps.json
+D:\Projetos\ConsolePastello\Pastello\bin\Debug\net5.0\Pastello.dll
+D:\Projetos\ConsolePastello\Pastello\bin\Debug\net5.0\ref\Pastello.dll
+D:\Projetos\ConsolePastello\Pastello\bin\Debug\net5.0\Pastello.pdb
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.dll
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\ref\Pastello.dll
+D:\Projetos\ConsolePastello\Pastello\obj\Debug\net5.0\Pastello.pdb
